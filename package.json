@@ -1,0 +1,23 @@
+{
+  "name": "aiza0123-student-management-system",
+  "version": "1.1.1",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "aiza012-student-management": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aiza Nadeem",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "inquirer": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  }
+}
